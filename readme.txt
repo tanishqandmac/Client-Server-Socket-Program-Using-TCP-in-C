@@ -10,5 +10,3 @@ Step 3: Open a new Terminal window and Start the client with the following comma
 './client'
 
 P.S - The Client can quit by either typing 'quit()' in the command or by keyboard interrupt (control+c)
-
-Assumption - By broadcasting to all the clients I am assuming all the clients can see the server page(terminal window)
